@@ -1,6 +1,6 @@
 const API_URL_L = "http://v.juhe.cn/todayOnhistory/queryEvent.php"
 const API_URL_D = "http://v.juhe.cn/todayOnhistory/queryDetail.php"
-const API_KEY = "f3bd973bc65a43d7235670c44d30a15d"
+const API_KEY = "YOUR API KEY"
 
 // 获取列表
 function fetchEvents(today) {
